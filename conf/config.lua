@@ -72,7 +72,7 @@ Core3 = {
 	MantisPass = "swgemu-sql",
 	MantisPrfx = "mantis_", -- The prefix for your mantis tables.
 
-	MetricsHost = "localhost",
+	MetricsHost = "89.160.230.71",
 	MetricsPort = 8125,
 	MetricsPrefix = "",
 

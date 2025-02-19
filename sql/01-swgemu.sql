@@ -1126,7 +1126,7 @@ CREATE TABLE  `swgemu`.`mantis_user_table` (
 
 /*!40000 ALTER TABLE `mantis_user_table` DISABLE KEYS */;
 LOCK TABLES `mantis_user_table` WRITE;
-INSERT INTO `swgemu`.`mantis_user_table` VALUES  (1,'administrator','','root@localhost','7c6afe50f993ce148d2bdbca6b831d47','2010-10-18 00:27:23','2010-11-23 00:13:35',1,0,90,6,0,0,'6b1a815f8bfa1fdc934f284a5c10f712d57dd1a96afb0f3ff9300ae5aefe4829');
+INSERT INTO `swgemu`.`mantis_user_table` VALUES  (1,'administrator','','root@89.160.230.71','7c6afe50f993ce148d2bdbca6b831d47','2010-10-18 00:27:23','2010-11-23 00:13:35',1,0,90,6,0,0,'6b1a815f8bfa1fdc934f284a5c10f712d57dd1a96afb0f3ff9300ae5aefe4829');
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `mantis_user_table` ENABLE KEYS */;
 

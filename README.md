@@ -78,7 +78,7 @@ This user account is setup by the [admin_account.sql](sql/02-admin_account.sql) 
 
 ### Connecting to the MySQL Database
 
-You can connect to the MySQL database using `localhost:3306` using any MySQL compatible tool. The root password can be found in the [docker-compose.yml](docker-compose.yml)
+You can connect to the MySQL database using `89.160.230.71:3306` using any MySQL compatible tool. The root password can be found in the [docker-compose.yml](docker-compose.yml)
 
 ### In-game Commands
 
