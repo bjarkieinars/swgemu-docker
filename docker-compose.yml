@@ -3,7 +3,7 @@ version: '3'
 services:
   database:
     image: mysql:5.7.28
-    hostname: swgemu_database
+    hostname: 89.160.230.71
     container_name: swgemu_database
     ports:
       - "3306:3306"
@@ -22,7 +22,7 @@ services:
       - database
     build: .
     image: swgemu:dev
-    hostname: swgemu_server
+    hostname: 89.160.230.71
     container_name: swgemu_server
     ports:
       - "44419:44419"
