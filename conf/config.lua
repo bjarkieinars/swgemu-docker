@@ -52,7 +52,7 @@ Core3 = {
 	ORB = "",
 	ORBPort = 44419,
 
-	DBHost = "swgemu_database",
+	DBHost = 89.160.230.71,
 	DBPort = 3306,
 	DBName = "swgemu",
 	DBUser = "swgemu",
@@ -65,14 +65,14 @@ Core3 = {
 	LoginAllowedConnections = 3000,
 	LoginRequiredVersion = "20050408-18:00",
 
-	MantisHost = "swgemu_database",
+	MantisHost = 89.160.230.71,
 	MantisPort = 3306,
 	MantisName = "swgemu",
 	MantisUser = "swgemu",
 	MantisPass = "swgemu-sql",
 	MantisPrfx = "mantis_", -- The prefix for your mantis tables.
 
-	MetricsHost = "89.160.230.71",
+	MetricsHost = 89.160.230.71,
 	MetricsPort = 8125,
 	MetricsPrefix = "",
 
